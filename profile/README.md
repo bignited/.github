@@ -31,6 +31,10 @@ We are **technology-agnostic**, choosing tools and languages based on the right 
 
 We’ve built our own **Test Data Generator** tool to help testers and automation engineers generate **correct and specific test data**—from UUIDs to national IDs, phone numbers, and more, making data setup easier and more reliable. ([bignited.be][4])
 
+### 🔹 b.strict
+
+We’ve built our own **b.strict** linter tool to help testers and automation engineers write **clean and valuable** tests making framework easier and more reliable.
+
 ---
 
 ## What You’ll Find Here
@@ -42,7 +46,7 @@ Repositories under this organization may include:
 * 🔍 **Proof-of-concepts and research**
 * 📚 **Code that supports talks, blogs, or learning content**
 
-Some repos are meant to teach, inspire, or explore ideas—not necessarily to be production-ready.
+Some repos are meant to teach, inspire, or explore ideas, not necessarily to be production-ready.
 
 ---
 
@@ -87,7 +91,7 @@ b.ignited focuses on elevating software quality by:
 * Supporting teams in continuous improvement
 * Sharing knowledge through code, tools, and examples
 
-📍 Based in Belgium, part of the Cronos Slingshot cluster. ([LinkedIn][2])
+📍 Based in Belgium, part of the Cronos Group. ([LinkedIn][2])
 
 ---
 
